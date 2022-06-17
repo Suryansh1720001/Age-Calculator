@@ -5,7 +5,7 @@
 
 Age-Calculator is a kotlin based android application
 
-## Some Screenshot of Applicaiton
+## Some Screenshots of Applicaiton
 
 .<img src= "https://user-images.githubusercontent.com/85965606/174243277-02a4d031-8c96-4a7b-9787-031444a2cfd7.jpeg" width="250" height="500">
 .<img src ="https://user-images.githubusercontent.com/85965606/174243288-be21e4ca-657a-4aff-a19c-140db813cf75.jpeg" width="250" height="500">
@@ -16,7 +16,7 @@ Age-Calculator is a kotlin based android application
 
 - Kotlin language
 - xml language
-- Android Studoid
+- Android Studio
 
 And of course Age-Calculator itself is open source with a [public repository](https://github.com/Suryansh1720001/Age-Calculator)
  on GitHub.
