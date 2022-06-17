@@ -22,10 +22,10 @@ And of course Age-Calculator itself is open source with a [public repository](ht
  on GitHub.
 
 ## Installation
-... (GooglePlay Store link available soon)...
+... (GooglePlay Store link available soon) ...
 
-- Use this link to download the app 
-- [DOWNLOAD APP](https://www.mediafire.com/file/bwgnagn8uydgvij/app-debug.apk/file)
+- Use this link to download the app  
+- [DOWNLOAD APP](https://www.mediafire.com/file/bwgnagn8uydgvij/app-debug.apk/file?dkey=bwgnagn8uydgvij)
 
 ## Attributes
 
