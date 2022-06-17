@@ -1,4 +1,4 @@
-# Age Calculator -
+# Age Calculator - [DOWNLOAD APP](https://www.mediafire.com/file/bwgnagn8uydgvij/app-debug.apk/file?dkey=bwgnagn8uydgvij)
 <img src ="https://user-images.githubusercontent.com/85965606/174242767-66902015-e73f-4d3c-8dc3-eabeede0df78.png" width="600" heigth="600">
 
 ## Calculate Age in Detailed view
