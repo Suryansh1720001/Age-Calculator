@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:fillViewport="true"
+    android:background="@color/yellow"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+<LinearLayout
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/yellow"
     android:gravity="center_horizontal"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context=".MainActivity">
-
-
+    >
     <TextView
         style="@android:style/Widget.Material.Light.TextView.SpinnerItem"
         android:layout_width="wrap_content"
@@ -33,13 +39,14 @@
         android:textColor="@color/white"
         android:textDirection="firstStrongRtl"
         android:textSize="30sp"
+        android:layout_marginTop="6dp"
         android:textStyle="bold" />
 
     <TextView
         style="@android:style/Widget.Material.Light.TextView.SpinnerItem"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:paddingTop="16dp"
+        android:layout_marginTop="5dp"
         android:text="@string/Details"
         android:textColor="@color/textBlue"
         android:textDirection="firstStrongRtl"
@@ -47,12 +54,13 @@
         android:textStyle="bold" />
 
     <ImageView
+
         android:id="@+id/imageView"
         android:layout_width="359dp"
         android:layout_height="168dp"
         android:layout_gravity="center"
-        android:layout_marginTop="40sp"
         android:contentDescription="TODO"
+        android:layout_marginTop="1dp"
         app:srcCompat="@drawable/app_image" />
 
 
@@ -185,5 +193,5 @@
         android:textSize="16sp"
         android:textStyle="bold|italic" />
 
-
 </LinearLayout>
+</ScrollView>
